@@ -1,0 +1,105 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">London Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_history">History</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_attractions">Famous</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_pubs">Pubs</string>
+
+    <string name="pub_name_1">Earl of Essex</string>
+
+    <string name="pub_name_2">Cocktail Trading Company</string>
+
+    <string name="pub_name_3">Coach and Horses</string>
+
+    <string name="pub_name_4">Bradley\'s Spanish Bar</string>
+
+    <string name="pub_name_5">Blind Pig</string>
+
+    <string name="pub_name_6">Beaufort Bar at the Savoy</string>
+
+    <string name="pub_desc_1">A craft beer bar that gets everything right.</string>
+
+    <string name="pub_desc_2">Small, secretive and playful but always serious about the cocktails.</string>
+
+    <string name="pub_desc_3">This long-standing Soho spot is old-school and unpretentious, with a heritage as a writers\’ drinking den.</string>
+
+    <string name="pub_desc_4">A cozy and unassuming little boozer bringing a touch of flamenco to Fitzrovia.</string>
+
+    <string name="pub_desc_5">Think Bugsy Malone for grown-ups and you\’re about there.</string>
+
+    <string name="pub_desc_6">Find eye-opening dusky glamour any time of the day at this hideaway of supreme style.</string>
+
+    <string name="history_name_1">Tower Bridge</string>
+
+    <string name="history_name_2">HM Tower of London</string>
+
+    <string name="history_name_3">Hampton Court Palace</string>
+
+    <string name="history_name_4">Kensington Palace</string>
+
+    <string name="history_name_5">Kenwood House</string>
+
+    <string name="history_name_6">Sutton House</string>
+
+    <string name="history_desc_1">Built in 1984, Tower Bridge is the most iconic bridge in London.</string>
+
+    <string name="history_desc_2">The historic site has been a palace, prison, armoury and powerful fortress.</string>
+
+    <string name="history_desc_3">Discover the Hampton Court Palace, Henry VIII\'s favourite royal residence.</string>
+
+    <string name="history_desc_4">Explore the rooms Queen Victoria used as a child.</string>
+
+    <string name="history_desc_5">Kenwood House is a magnificent stately home in Hampstead.</string>
+
+    <string name="history_desc_6">Built in 1535 by Henry VIII\'s Secretary of State, Sir Ralph Sadleir.</string>
+
+    <string name="attraction_name_1">Buckingham Palace</string>
+
+    <string name="attraction_name_2">London Zoo</string>
+
+    <string name="attraction_name_3">London Eye</string>
+
+    <string name="attraction_name_4">View from the Shard</string>
+
+    <string name="attraction_desc_1">A chance to see world famous art and get inside HRH\’s HQ.</string>
+
+    <string name="attraction_desc_2">It\'s a zoo. In London.</string>
+
+    <string name="attraction_desc_3">The London Eye first started turning in 2000 and remains the world\’s tallest cantilevered observation wheel.</string>
+
+    <string name="attraction_desc_4">The View from The Shard is one of the city\’s very best vantage points.</string>
+
+    <string name="food_name_1">Social Eating House</string>
+
+    <string name="food_name_2">Bao</string>
+
+    <string name="food_name_3">Ceviche Soho</string>
+
+    <string name="food_name_4">Hoppers</string>
+
+    <string name="food_name_5">Som Saa</string>
+
+    <string name="food_name_6">The Barbary</string>
+
+    <string name="food_desc_1">Informal but slick service and a big-ticket menu from Ramsay protégé and unstoppable wunderkind Jason Atherton.</string>
+
+    <string name="food_desc_2">A dinky Soho eatery serving fiery food you can eat with your fingers – and have time to queue.</string>
+
+    <string name="food_desc_3">A Latin dance party on your plate and in your glass!</string>
+
+    <string name="food_desc_4">A restaurant serving exclusively Sri Lankan dishes in the heart of Soho.</string>
+
+    <string name="food_desc_5">Thai street food in a stylish and exotic former garment factory walking distance from Liverpool Street.</string>
+
+    <string name="food_desc_6">A ‘modern Israeli\’ small plates restaurant in the heart of Neal\’s Yard, Covent Garden.</string>
+
+</resources>
